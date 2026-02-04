@@ -1,0 +1,130 @@
+{
+  "India": {
+    "Japan": {
+      "summary": "eVisa",
+      "application_process": [
+        "Visit the official Japan eVisa portal",
+        "Complete the application form with passport details",
+        "Upload required documents (passport scan, photo)",
+        "Pay the visa fee online",
+        "Receive eVisa approval by email (usually within 5 working days)"
+      ]
+    },
+    "Thailand": {
+      "summary": "Visa-free (short stays)",
+      "application_process": [
+        "Confirm eligibility for visa-free entry",
+        "Ensure passport validity of at least 6 months",
+        "Complete any required arrival forms (e.g., SG Arrival Card as applicable)",
+        "Check if pre-registration (TDAC) is required for certain entries"
+      ]
+    },
+    "USA": {
+      "summary": "Visa required",
+      "application_process": [
+        "Complete the DS-160 online form",
+        "Pay the visa application fee",
+        "Schedule a visa interview at the nearest US Embassy/Consulate",
+        "Attend interview with supporting documents (passport, photographs, financials)",
+        "Wait for visa processing and collection instructions"
+      ]
+    },
+    "UK": {
+      "summary": "Visa required",
+      "application_process": [
+        "Apply online for the Standard Visitor visa",
+        "Pay the visa fee and book a biometric appointment",
+        "Attend the biometric appointment with required documents",
+        "Await decision (processing times vary)"
+      ]
+    },
+    "France": {
+      "summary": "Schengen Visa required",
+      "application_process": [
+        "Determine which Schengen consulate to apply to",
+        "Complete Schengen visa application form",
+        "Book appointment and attend with supporting documents",
+        "Provide travel insurance proof and proof of accommodation/finances",
+        "Wait for visa processing"
+      ]
+    },
+    "Germany": {
+      "summary": "Schengen Visa required",
+      "application_process": [
+        "Complete Schengen visa application",
+        "Book and attend consulate appointment",
+        "Submit required documents and travel insurance",
+        "Wait for decision"
+      ]
+    },
+    "Italy": {
+      "summary": "Schengen Visa required",
+      "application_process": [
+        "Complete the Schengen visa application form",
+        "Book an appointment at the Italian consulate or visa center",
+        "Attend appointment with passport, photos, travel itinerary, insurance",
+        "Pay fee and wait for processing"
+      ]
+    },
+    "Singapore": {
+      "summary": "eVisa required",
+      "application_process": [
+        "Apply for eVisa via the official ICA/authorised portal",
+        "Fill in personal and travel details",
+        "Upload required documents",
+        "Pay applicable fee and await approval"
+      ]
+    },
+    "UAE": {
+      "summary": "Visa on arrival for certain conditions / eVisa",
+      "application_process": [
+        "Check eligibility for visa on arrival (holders of certain visas)",
+        "If not eligible, apply for eVisa via UAE portal or airline partners",
+        "Provide passport copy and travel details",
+        "Pay fees and await confirmation"
+      ]
+    },
+    "Australia": {
+      "summary": "Visitor Visa required",
+      "application_process": [
+        "Apply online through ImmiAccount",
+        "Provide passport details, travel plans, and supporting documents",
+        "Pay application fee and submit biometrics if required",
+        "Await visa grant notification"
+      ]
+    },
+    "Canada": {
+      "summary": "Visa required",
+      "application_process": [
+        "Apply online via IRCC portal",
+        "Submit required documents and biometrics if requested",
+        "Pay fees and wait for processing",
+        "Follow instructions for passport submission if a visa is granted"
+      ]
+    },
+    "Malaysia": {
+      "summary": "Visa-free (short stays)",
+      "application_process": [
+        "Confirm eligibility for visa-free entry",
+        "Ensure passport validity and any pre-registration requirements",
+        "Follow arrival procedures at immigration"
+      ]
+    },
+    "Indonesia": {
+      "summary": "eVOA / Visa on Arrival",
+      "application_process": [
+        "Check eligibility for eVOA or VOA",
+        "Apply online if using eVOA or obtain VOA on arrival",
+        "Provide passport and pay fee at arrival if using VOA"
+      ]
+    },
+    "Nepal": {
+      "summary": "Visa free for Indian citizens",
+      "application_process": [
+        "Carry valid Voter ID or passport",
+        "Follow border entry procedures",
+        "No pre-application required for most Indian travellers"
+      ]
+    }
+  }
+}

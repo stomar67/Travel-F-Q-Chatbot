@@ -1,0 +1,40 @@
+{
+  "Basic": {
+    "price_range_inr": "₹1,800 – ₹3,000",
+    "coverage": [
+      "Medical emergencies (up to ₹5–10 lakh)",
+      "Hospitalization (up to ₹10 lakh)"
+    ],
+    "ideal_for": "Short trips and budget travelers",
+    "description": "Covers essential medical costs typical of entry-level international travel insurance.",
+    "note": "Approximate pricing based on average market rates for 7–10 day international trips."
+  },
+
+  "Standard": {
+    "price_range_inr": "₹3,500 – ₹6,000",
+    "coverage": [
+      "Medical emergencies (up to ₹15–20 lakh)",
+      "Trip cancellation",
+      "Lost baggage",
+      "Flight delay compensation"
+    ],
+    "ideal_for": "Most international leisure travelers",
+    "description": "Balanced coverage including cancellations and baggage loss, suitable for most tourists.",
+    "note": "Approximate pricing based on average market rates for 7–10 day international trips."
+  },
+
+  "Premium": {
+    "price_range_inr": "₹6,500 – ₹12,000",
+    "coverage": [
+      "Medical emergencies (up to ₹30 lakh or more)",
+      "Trip cancellation",
+      "Lost baggage",
+      "Adventure sports coverage",
+      "Emergency evacuation",
+      "Flight delay & missed connection compensation"
+    ],
+    "ideal_for": "Long trips, adventure travel, or high-risk destinations",
+    "description": "Comprehensive coverage including evacuations and adventure activities.",
+    "note": "Approximate pricing based on average market rates for 7–10 day international trips."
+  }
+}

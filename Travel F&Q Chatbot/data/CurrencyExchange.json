@@ -1,0 +1,62 @@
+{
+  "JPY": {
+    "country": "Japan",
+    "rate_to_INR": 0.60,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "THB": {
+    "country": "Thailand",
+    "rate_to_INR": 2.92,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "USD": {
+    "country": "USA",
+    "rate_to_INR": 91.69,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "GBP": {
+    "country": "UK",
+    "rate_to_INR": 125.49,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "EUR": {
+    "country": "France, Germany, Italy",
+    "rate_to_INR": 109.23,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "SGD": {
+    "country": "Singapore",
+    "rate_to_INR": 72.28,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "AED": {
+    "country": "UAE",
+    "rate_to_INR": 24.97,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "AUD": {
+    "country": "Australia",
+    "rate_to_INR": 64.21,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "CAD": {
+    "country": "Canada",
+    "rate_to_INR": 67.69,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "MYR": {
+    "country": "Malaysia",
+    "rate_to_INR": 23.22,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "IDR": {
+    "country": "Indonesia",
+    "rate_to_INR": 0.0055,
+    "note": "Approximate rate with respect to 01.02.2026"
+  },
+  "NPR": {
+    "country": "Nepal",
+    "rate_to_INR": 0.62,
+    "note": "Approximate rate with respect to 01.02.2026"
+  }
+}

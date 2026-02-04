@@ -1,0 +1,141 @@
+{
+  "Japan": {
+    "aliases": ["Japan", "Nippon"],
+    "visa": "eVisa for Indian citizens up to 90 days. Apply online/offline prior to travel. Allows only single entry. Generally takes 5 working days to process.",
+    "vaccination": "No mandatory vaccinations required.",
+    "currency": { "name": "Japanese Yen", "code": "JPY" },
+    "customs": "Be punctual. Remove shoes indoors.",
+    "emergency": "Police: 110, Ambulance: 119.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Thailand": {
+    "aliases": ["Thailand", "Thai Kingdom"],
+    "visa": "Visa-free for Indian citizens upto 60 days. 6+ months validity on passport required. Before arrival, TDAC registration is mandatory.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Thai Baht", "code": "THB" },
+    "customs": "Respect the monarchy. Maintain cleanliness.",
+    "emergency": "Police: 191, Ambulance: 1669. Tourist Police: 1155.",
+    "insurance": "Medical insurance advised."
+  },
+
+  "USA": {
+    "aliases": ["USA", "United States", "United States of America", "US", "America"],
+    "visa": "Visa required before travel for 10 years. Fill DS-160 form online and schedule an appointment at the US Embassy before travel.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "US Dollar", "code": "USD" },
+    "customs": "Follow local laws and security rules.",
+    "emergency": "Police/Ambulance: 911.",
+    "insurance": "Strongly recommended due to high medical costs."
+  },
+
+  "UK": {
+    "aliases": ["UK", "United Kingdom", "Britain"],
+    "visa": "Visa required before travel for 6 months. Apply for Standard Visitor visa online and attend biometric appointment at least 3 months prior to travel. Single or multiple entry allowed.",
+    "vaccination": "Routine vaccinations recommended. TB vaccination mandatory if staying longer than 6 months.",
+    "currency": { "name": "Pound Sterling", "code": "GBP" },
+    "customs": "Queue politely and respect personal space.",
+    "emergency": "Police/Ambulance: 999.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "France": {
+    "aliases": ["France"],
+    "visa": "Schengen Visa for Indian citizens up to 90 days.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Euro", "code": "EUR" },
+    "customs": "Greet politely and respect local etiquette.",
+    "emergency": "Police: 17, Ambulance: 15.",
+    "insurance": "Travel insurance mandatory."
+  },
+
+  "Germany": {
+    "aliases": ["Germany", "Deutschland"],
+    "visa": "Schengen Visa for Indian citizens up to 90 days.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Euro", "code": "EUR" },
+    "customs": "Be punctual and follow rules strictly.",
+    "emergency": "Police: 110, Ambulance: 112.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Italy": {
+    "aliases": ["Italy", "Italia"],
+    "visa": "Schengen Visa for Indian citizens up to 90 days.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Euro", "code": "EUR" },
+    "customs": "Dress appropriately at religious sites.",
+    "emergency": "Police: 112, Ambulance: 118.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Singapore": {
+    "aliases": ["Singapore"],
+    "visa": "eVisa required before travel. Fill application Form 14A and SG Arrival Card online 3 days prior to travel.",
+    "vaccination": "No mandatory vaccinations required. Yellow fever vaccination mandatory if coming from an infected region.",
+    "currency": { "name": "Singapore Dollar", "code": "SGD" },
+    "customs": "Strict laws. Avoid littering and chewing gum.",
+    "emergency": "Police: 999, Ambulance: 995.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "UAE": {
+    "aliases": ["UAE", "United Arab Emirates"],
+    "visa": "Visa on arrival for those Indian citizens who has visa of USA, Uk or EU. Otherwise eVisa required before travel.",
+    "vaccination": "No mandatory vaccinations required.",
+    "currency": { "name": "UAE Dirham", "code": "AED" },
+    "customs": "Dress modestly and respect local traditions.",
+    "emergency": "Police: 999, Ambulance: 998.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Australia": {
+    "aliases": ["Australia"],
+    "visa": "Visitor Visa required before travel. Apply online through ImmiAccount.",
+    "vaccination": "Routine vaccinations recommended. Mandatory in cases staying longer than 6 months.",
+    "currency": { "name": "Australian Dollar", "code": "AUD" },
+    "customs": "Follow biosecurity and customs rules strictly.",
+    "emergency": "Police/Ambulance: 000.",
+    "insurance": "Travel insurance strongly recommended."
+  },
+
+  "Canada": {
+    "aliases": ["Canada"],
+    "visa": "Visa required before travel upto 10 years. Apply online through the IRCC website.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Canadian Dollar", "code": "CAD" },
+    "customs": "Be polite and respect local laws.",
+    "emergency": "Police/Ambulance: 911.  Health assistance : 811",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Malaysia": {
+    "aliases": ["Malaysia"],
+    "visa": "Visa-free for Indian citizens. Fill MDAC form online 3 days prior to travel. Stay upto 30 days.",
+    "vaccination": "Routine vaccinations recommended.",
+    "currency": { "name": "Malaysian Ringgit", "code": "MYR" },
+    "customs": "Dress modestly and respect cultural norms.",
+    "emergency": "Police/Ambulance: 999.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Indonesia": {
+    "aliases": ["Indonesia", "Republic of Indonesia"],
+    "visa": "eVOA for Indian citizens. Valid for 30 days. Apply online prior to travel or on arrival.",
+    "vaccination": "Routine vaccinations recommended. Yellow fever vaccination is mandatory if coming from an infected region.",
+    "currency": { "name": "Indonesian Rupiah", "code": "IDR" },
+    "customs": "Dress modestly and respect local customs.",
+    "emergency": "Police: 110, Ambulance: 119.",
+    "insurance": "Travel insurance recommended."
+  },
+
+  "Nepal": {
+    "aliases": ["Nepal"],
+    "visa": "Visa free for Indian citizens. Voter ID or passport required.",
+    "vaccination": "No mandatory vaccinations required.",
+    "currency": { "name": "Nepalese Rupee", "code": "NPR" },
+    "customs": "Bow politely and respect elders.",
+    "emergency": "Police: 100, Ambulance: 102. Tourist Police: 1144",
+    "insurance": "Travel insurance recommended."
+  }
+}
