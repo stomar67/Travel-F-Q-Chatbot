@@ -1,2 +1,4 @@
-# Travel-F-Q-Chatbot
-  An interactive Tourism Information Chatbot built using Streamlit and Python that provides instant travel assistance for multiple destinations.
+The Travel FAQ Chatbot is a tourism assistant built using Python and Streamlit that provides instant, reliable travel information for international travelers. 
+The chatbot can answer questions about visa requirements, vaccination guidelines, currency exchange rates, local customs, emergency contacts, and travel insurance for multiple destinations. 
+It detects user intent, retrieves the most relevant travel data, and generates natural language responses that can be translated into multiple languages, making it accessible to a global audience. 
+This project demonstrates how interactive chatbots can reduce customer support workload, deliver real-time travel assistance, and improve traveler experience through scalable and cost-efficient automation.
